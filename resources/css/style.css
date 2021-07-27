@@ -5,6 +5,7 @@ body {
 }
 
 /* Headings */
+
 .header--main{
     font-weight: normal;
     font-size: 50px;
@@ -23,12 +24,14 @@ body {
 }
 
 /* Links */
+
 .link--cta {
     font-size: 16px;
     color: aquamarine;
 }
 
 /* Footer */
+
 .footer--copyright {
     font-size: 21px;
     color: grey;
